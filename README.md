@@ -32,7 +32,7 @@ const SpeakersList = ({ speakers }) => {
 ## Installation
 
 ```bash
-npm install use-related-state
+npm install @bigab/use-related-state
 ```
 
 \*_Note use-related-state requires `react` as a peer dependancy_
