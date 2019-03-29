@@ -1,5 +1,5 @@
 {
-  "name": "use-related-state",
+  "name": "@bigab/use-related-state",
   "version": "0.0.1",
   "description": "A React Hook for relating UI state to a list of entities",
   "main": "dist/use-related-state.cjs.js",
