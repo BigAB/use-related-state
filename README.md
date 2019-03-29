@@ -2,7 +2,7 @@
 
 A React Hook for relating UI state to a list of entities
 
-_TODO: add build status button_
+[![Build Status](https://travis-ci.com/BigAB/use-related-state.svg?branch=master)](https://travis-ci.com/BigAB/use-related-state)
 
 **A Custom React Hook for relating UI state to a list of entities**
 
